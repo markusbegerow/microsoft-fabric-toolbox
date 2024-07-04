@@ -1,3 +1,5 @@
+Scripts that I use frequently
+
 # CSV to Delta Table Processor
 
 This project provides a streamlined solution for processing CSV files in a directory and storing them as Delta tables using Spark in a Microsoft Fabric environment. The code reads all CSV files from a specified directory, cleans their filenames, and saves the data into the Spark SQL Metastore as Delta tables.
